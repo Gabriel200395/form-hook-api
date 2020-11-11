@@ -13,7 +13,7 @@
 - Clone o projeto: `git clone https://github.com/Gabriel200395/form-hook-api.git`;
 - Entrar na pasta do projeto: `cd form-hook-api`;
 - Instalar as dependências: `npm install`;
-- Iniciar a aplicação: `npm start`.
+- Iniciar a aplicação: `npm serve`.
 - OBS: Caso o projeto de erro no cors (npm install cors)
 
 ## :pencil: Autor
