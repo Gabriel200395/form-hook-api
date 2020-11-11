@@ -1,21 +1,25 @@
-<html>
-    <h3>Esse aqui e o crud da aplicação form Hook, fazendo a integração com o banco</h3>
-    <body>
-        <h5>Passo a passo para obter o projeto. <h5>
-         <ul>
-         <li>#clone o projeto ou faça downoload : https://github.com/Gabriel200395/form-hook-api.git</li>
-         <li>#entre na pasta: cd form-hook-api</li>
-         <li>#baixa as independencias:  npm install e depois npm install cors --save</li>
-         <li>#execute o projeto: npm run server</li>
-        </ul>
-         <br /> 
-         <h5>Banco de Dados</h5>
-         <ul>
-          <li>1 - npm install --save mongodb</li>
-          <li>2 - npm install --save mongoose </li>
-          <li>3 - Instalação do cors npm install cors https://www.npmjs.com/package/cors</li>
-          <li>4 - Validação de Schema https://mongoosejs.com/docs/guide.html</li>
-         </ul> 
-    </body>
-</html>
- 
+## :wrench: Tecnologias
+
+<!--EXEMPLO:-->
+- [Node JS](https://nodejs.org/en)
+- [Cors](https://www.npmjs.com/package/cors)
+- [express](https://www.npmjs.com/package/express)
+- [mongoDB](https://www.mongodb.com/try/download/compass)
+- [Mongoose](https://www.npmjs.com/package/mongoose)
+- [Nodemon](https://www.npmjs.com/package/nodemon)
+
+## 💻 Como usar
+
+- Clone o projeto: `git clone https://github.com/Gabriel200395/controle-estoque-api.git`;
+- Entrar na pasta do projeto: `cd controle-estoque-api`;
+- Instalar as dependências: `npm install`;
+- Iniciar a aplicação: `npm start`.
+- OBS: Caso o projeto de erro no cors (npm install cors)
+
+## :pencil: Autor
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Gabriel200395"><img src="https://avatars2.githubusercontent.com/u/68435908?s=400&u=9cbee30d93471534b2bd12a6364edd45e618b923&v=4" width="100px;" alt=""/><br /><sub><b>Gabriel Souza</b></sub></a><br /></td>
+  <tr>
+</table>
